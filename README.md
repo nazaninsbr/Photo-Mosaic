@@ -8,8 +8,8 @@ This is a short, fun project. it is based on <a href="https://www.youtube.com/wa
 ```
 	put your Target image in the images folder and then 
 	add your images in images/all. 
-	you need to set the size of the on line 20 of the code. 
-	and just run it:)
+	you need to set the size of the target image on line 20 of the code. 
+	and then run it:)
 ```
 
 <hr>
